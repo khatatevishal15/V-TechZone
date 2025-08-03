@@ -32,12 +32,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GreatStackDev/QuickCart.git"
+    "url": "git+https://github.com/khatatevishal15/V-TechZone.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GreatStackDev/QuickCart/issues"
+    "url": "https://github.com/khatatevishal15/V-TechZone/issues"
   },
-  "homepage": "https://github.com/GreatStackDev/QuickCart#readme"
+  "homepage": "https://github.com/khatatevishal15/V-TechZone#readme"
 }
